@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Layer 8</title>
+    <link>https://www.mdroege.de/posts/</link>
+    <description>Recent content in Posts on Layer 8</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 02 Feb 2021 09:31:33 +0100</lastBuildDate><atom:link href="https://www.mdroege.de/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Firstpost</title>
+      <link>https://www.mdroege.de/posts/firstpost/</link>
+      <pubDate>Tue, 02 Feb 2021 09:31:33 +0100</pubDate>
+      
+      <guid>https://www.mdroege.de/posts/firstpost/</guid>
+      <description>Das ist ein Text</description>
+    </item>
+    
+  </channel>
+</rss>
