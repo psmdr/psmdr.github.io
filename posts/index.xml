@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Layer 8 - some things about it</title>
-    <link>https://www.mdroege.de/posts/</link>
+    <link>https://psmdr.github.io/posts/</link>
     <description>Recent content in Posts on Layer 8 - some things about it</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright 2021 by Max Droege</copyright>
-    <lastBuildDate>Tue, 02 Feb 2021 09:31:33 +0100</lastBuildDate><atom:link href="https://www.mdroege.de/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 02 Feb 2021 09:31:33 +0100</lastBuildDate><atom:link href="https://psmdr.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Firstpost</title>
-      <link>https://www.mdroege.de/2021/02/firstpost/</link>
+      <link>https://psmdr.github.io/2021/02/firstpost/</link>
       <pubDate>Tue, 02 Feb 2021 09:31:33 +0100</pubDate>
       
-      <guid>https://www.mdroege.de/2021/02/firstpost/</guid>
+      <guid>https://psmdr.github.io/2021/02/firstpost/</guid>
       <description>Das ist ein Text</description>
     </item>
     

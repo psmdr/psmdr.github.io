@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Layer 8 - some things about it</title>
-    <link>https://www.mdroege.de/</link>
+    <link>https://psmdr.github.io/</link>
     <description>Recent content on Layer 8 - some things about it</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright 2021 by Max Droege</copyright>
-    <lastBuildDate>Tue, 02 Feb 2021 09:31:33 +0100</lastBuildDate><atom:link href="https://www.mdroege.de/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 02 Feb 2021 09:31:33 +0100</lastBuildDate><atom:link href="https://psmdr.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Firstpost</title>
-      <link>https://www.mdroege.de/2021/02/firstpost/</link>
+      <link>https://psmdr.github.io/2021/02/firstpost/</link>
       <pubDate>Tue, 02 Feb 2021 09:31:33 +0100</pubDate>
       
-      <guid>https://www.mdroege.de/2021/02/firstpost/</guid>
+      <guid>https://psmdr.github.io/2021/02/firstpost/</guid>
       <description>Das ist ein Text</description>
     </item>
     
     <item>
       <title>Testseite</title>
-      <link>https://www.mdroege.de/testpage/</link>
+      <link>https://psmdr.github.io/testpage/</link>
       <pubDate>Tue, 02 Feb 2021 09:31:33 +0100</pubDate>
       
-      <guid>https://www.mdroege.de/testpage/</guid>
+      <guid>https://psmdr.github.io/testpage/</guid>
       <description>Hallo das ist ein einfach eine leere seite. Ich schreib hier mal was mir so gefällt.
 So sieht code aus:
 get-servertotown</description>
@@ -30,10 +30,10 @@ get-servertotown</description>
     
     <item>
       <title></title>
-      <link>https://www.mdroege.de/imprint/</link>
+      <link>https://psmdr.github.io/imprint/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mdroege.de/imprint/</guid>
+      <guid>https://psmdr.github.io/imprint/</guid>
       <description>Impressum Max Droege IT Consulting
 Eppendorfer Weg 279 20251 Hamburg
 tel: +49 (40) 555 046 10 mail: mail[at]mdroege.de
@@ -43,19 +43,19 @@ Rechtshinweis Diese Webseiten wie auch die darin enthaltenen und referenzierten 
     
     <item>
       <title></title>
-      <link>https://www.mdroege.de/nocheineseite/</link>
+      <link>https://psmdr.github.io/nocheineseite/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mdroege.de/nocheineseite/</guid>
+      <guid>https://psmdr.github.io/nocheineseite/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://www.mdroege.de/untitled/</link>
+      <link>https://psmdr.github.io/untitled/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mdroege.de/untitled/</guid>
+      <guid>https://psmdr.github.io/untitled/</guid>
       <description></description>
     </item>
     
