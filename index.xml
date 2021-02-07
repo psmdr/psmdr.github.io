@@ -1,19 +1,62 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Layer 8</title>
+    <title>Layer 8 - some things about it</title>
     <link>https://www.mdroege.de/</link>
-    <description>Recent content on Layer 8</description>
+    <description>Recent content on Layer 8 - some things about it</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>Copyright 2021 by Max Droege</copyright>
     <lastBuildDate>Tue, 02 Feb 2021 09:31:33 +0100</lastBuildDate><atom:link href="https://www.mdroege.de/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Firstpost</title>
-      <link>https://www.mdroege.de/posts/firstpost/</link>
+      <link>https://www.mdroege.de/2021/02/firstpost/</link>
       <pubDate>Tue, 02 Feb 2021 09:31:33 +0100</pubDate>
       
-      <guid>https://www.mdroege.de/posts/firstpost/</guid>
+      <guid>https://www.mdroege.de/2021/02/firstpost/</guid>
       <description>Das ist ein Text</description>
+    </item>
+    
+    <item>
+      <title>Testseite</title>
+      <link>https://www.mdroege.de/testpage/</link>
+      <pubDate>Tue, 02 Feb 2021 09:31:33 +0100</pubDate>
+      
+      <guid>https://www.mdroege.de/testpage/</guid>
+      <description>Hallo das ist ein einfach eine leere seite. Ich schreib hier mal was mir so gefällt.
+So sieht code aus:
+get-servertotown</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.mdroege.de/imprint/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.mdroege.de/imprint/</guid>
+      <description>Impressum Max Droege IT Consulting
+Eppendorfer Weg 279 20251 Hamburg
+tel: +49 (40) 555 046 10 mail: mail[at]mdroege.de
+Umsatzsteuer ID: DE268605256
+Rechtshinweis Diese Webseiten wie auch die darin enthaltenen und referenzierten Informationen dienen ausschließlich zu Informationszwecken. Eine Haftung oder Zusicherung für die Richtigkeit, Vollständigkeit und Nutzbarkeit der auf diesen Webseiten dargestellten bzw.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.mdroege.de/nocheineseite/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.mdroege.de/nocheineseite/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.mdroege.de/untitled/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.mdroege.de/untitled/</guid>
+      <description></description>
     </item>
     
   </channel>
