@@ -3,10 +3,9 @@ description: "Kurze Beschreibung"
 author: ""                     # Leer lassen oder weglassen
 
 # Theme (falls du eines nutzt)
-theme: minima                  # oder weglassen wenn kein Jekyll-Theme
+theme: hacker                  # oder weglassen wenn kein Jekyll-Theme
 
 # GitHub Pages Plugins
-plugins:
-  - jekyll-feed
+#plugins:
+#  - jekyll-feed
 
-  
