@@ -3,7 +3,7 @@ description: ""
 author: ""                     # Leer lassen oder weglassen
 
 # Theme (falls du eines nutzt)
-theme: hacker                  # oder weglassen wenn kein Jekyll-Theme
+#theme: hacker                  # oder weglassen wenn kein Jekyll-Theme
 
 # GitHub Pages Plugins
 #plugins:
